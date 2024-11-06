@@ -3,8 +3,8 @@ package com.rudra.ecommerce_backend.Services;
 import com.rudra.ecommerce_backend.Exceptions.ProductNotFoundException;
 import com.rudra.ecommerce_backend.Repositories.CategoryRepository;
 import com.rudra.ecommerce_backend.Repositories.ProductRepository;
-import com.rudra.ecommerce_backend.models.Category;
-import com.rudra.ecommerce_backend.models.Product;
+import com.rudra.ecommerce_backend.Models.Category;
+import com.rudra.ecommerce_backend.Models.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

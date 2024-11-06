@@ -1,6 +1,6 @@
 package com.rudra.ecommerce_backend.Repositories;
 
-import com.rudra.ecommerce_backend.models.Category;
+import com.rudra.ecommerce_backend.Models.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

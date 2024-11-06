@@ -5,7 +5,7 @@ import com.rudra.ecommerce_backend.DTOs.search.FilterDto;
 import com.rudra.ecommerce_backend.DTOs.search.SearchResponseDto;
 import com.rudra.ecommerce_backend.DTOs.search.SortingCriteria;
 import com.rudra.ecommerce_backend.Services.SearchService;
-import com.rudra.ecommerce_backend.models.Product;
+import com.rudra.ecommerce_backend.Models.Product;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.PageRequest;

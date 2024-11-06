@@ -1,6 +1,6 @@
 package com.rudra.ecommerce_backend.Services.sortingService;
 
-import com.rudra.ecommerce_backend.models.Product;
+import com.rudra.ecommerce_backend.Models.Product;
 
 import java.util.List;
 

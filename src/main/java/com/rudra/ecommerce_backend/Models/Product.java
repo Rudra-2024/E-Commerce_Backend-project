@@ -1,4 +1,4 @@
-package com.rudra.ecommerce_backend.models;
+package com.rudra.ecommerce_backend.Models;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;

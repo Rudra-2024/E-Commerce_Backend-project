@@ -2,7 +2,7 @@ package com.rudra.ecommerce_backend.Services;
 
 import com.rudra.ecommerce_backend.DTOs.fakestore.FakeStoreCreateProductRequestDto;
 import com.rudra.ecommerce_backend.DTOs.fakestore.FakeStoreGetProductResponseDto;
-import com.rudra.ecommerce_backend.models.Product;
+import com.rudra.ecommerce_backend.Models.Product;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;

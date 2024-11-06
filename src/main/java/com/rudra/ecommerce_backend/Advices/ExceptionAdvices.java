@@ -1,4 +1,4 @@
-package com.rudra.ecommerce_backend.advices;
+package com.rudra.ecommerce_backend.Advices;
 
 import com.rudra.ecommerce_backend.DTOs.ErrorResponseDto;
 import org.springframework.web.bind.annotation.ControllerAdvice;

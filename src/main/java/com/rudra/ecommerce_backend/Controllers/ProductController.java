@@ -3,7 +3,7 @@ package com.rudra.ecommerce_backend.Controllers;
 import com.rudra.ecommerce_backend.DTOs.products.*;
 import com.rudra.ecommerce_backend.Exceptions.ProductNotFoundException;
 import com.rudra.ecommerce_backend.Services.ProductService;
-import com.rudra.ecommerce_backend.models.Product;
+import com.rudra.ecommerce_backend.Models.Product;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;

@@ -5,7 +5,7 @@ import com.rudra.ecommerce_backend.DTOs.search.SortingCriteria;
 import com.rudra.ecommerce_backend.Repositories.ProductRepository;
 import com.rudra.ecommerce_backend.Services.filteringService.FilterFactory;
 import com.rudra.ecommerce_backend.Services.sortingService.SorterFactory;
-import com.rudra.ecommerce_backend.models.Product;
+import com.rudra.ecommerce_backend.Models.Product;
 import org.springframework.data.domain.*;
 import org.springframework.stereotype.Service;
 

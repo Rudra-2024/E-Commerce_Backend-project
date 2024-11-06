@@ -1,6 +1,6 @@
 package com.rudra.ecommerce_backend.DTOs.fakestore;
 
-import com.rudra.ecommerce_backend.models.Product;
+import com.rudra.ecommerce_backend.Models.Product;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,4 +1,4 @@
-package com.rudra.ecommerce_backend.configs;
+package com.rudra.ecommerce_backend.Configs;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
